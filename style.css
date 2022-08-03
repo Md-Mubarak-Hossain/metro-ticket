@@ -1,0 +1,6 @@
+a:hover {
+    background-color: tomato;
+    border-radius: 5px;
+    color: white !important;
+    text-decoration: none;
+}
